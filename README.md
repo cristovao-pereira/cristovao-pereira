@@ -61,7 +61,7 @@ Projetos voltados à automação de tarefas, padronização de ambientes e melho
 ## Contato
 
 - ✉️ **cristovaopb@gmail.com**
-- 🔗 **GitHub:** [@cristovao-pereira](https://github.com/cristovao-pereira)
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/cristovao-pereira
 
 ---
 

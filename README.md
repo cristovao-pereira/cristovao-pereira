@@ -4,8 +4,6 @@
 
 **Analista de Sistemas | DevOps | Full Stack | Engenharia de Computação**
 
-<img src="./assets/loja-badge.svg" alt="Loja RC Goiânia badge" style="margin-bottom:8px;" />
-
 Atuo na análise, desenvolvimento e evolução de soluções tecnológicas, com foco em automação, integração de sistemas, qualidade e boas práticas de engenharia de software.
 
 [![Gmail](https://img.shields.io/badge/cristovaopb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristovaopb@gmail.com)

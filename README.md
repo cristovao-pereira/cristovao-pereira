@@ -94,7 +94,7 @@ Detalhes e instalação estão no repositório — clone, configure as variávei
 Demo animado (substitua por um GIF se preferir):
 
 <div align="center">
-  <img src="./assets/loja-animated.svg" alt="Loja RC Goiânia demo animation" style="max-width:100%; height:auto;" />
+  <img src="./assets/loja-gif.gif" alt="Loja RC Goiânia demo animation" style="max-width:100%; height:auto;" />
 </div>
 
 ---

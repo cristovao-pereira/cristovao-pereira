@@ -4,6 +4,8 @@
 
 **Analista de Sistemas | DevOps | Full Stack | Engenharia de Computação**
 
+<img src="./assets/loja-badge.svg" alt="Loja RC Goiânia badge" style="margin-bottom:8px;" />
+
 Atuo na análise, desenvolvimento e evolução de soluções tecnológicas, com foco em automação, integração de sistemas, qualidade e boas práticas de engenharia de software.
 
 [![Gmail](https://img.shields.io/badge/cristovaopb@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristovaopb@gmail.com)
@@ -21,6 +23,14 @@ Atuo na análise, desenvolvimento e evolução de soluções tecnológicas, com 
 | 💻 | Experiência com **desenvolvimento Full Stack** |
 | ⚙️ | Interesse em **automação**, **infraestrutura** e **otimização de processos** |
 | 🚀 | Foco em soluções escaláveis, organizadas e de fácil manutenção |
+
+---
+
+## About (English)
+
+Cristovão Pereira de Brito — Systems Analyst, DevOps and Full Stack Developer. I design, build and maintain scalable web applications and infrastructure, with emphasis on automation, integration and software engineering best practices.
+
+Featured project: [Loja RC Goiânia](https://github.com/cristovao-pereira/lojaRCGoiania) — a retail management and e-commerce platform (React + Vite + TailwindCSS; Cloudflare Pages Functions; Supabase/Postgres). Recommended Node.js 20+ for local development.
 
 ---
 
@@ -80,6 +90,12 @@ Principais pontos:
 - Requisitos: Node.js 20+ para desenvolvimento local.
 
 Detalhes e instalação estão no repositório — clone, configure as variáveis de ambiente e rode `npm run dev:local` para ambiente de desenvolvimento.
+
+Demo animado (substitua por um GIF se preferir):
+
+<div align="center">
+  <img src="./assets/loja-animated.svg" alt="Loja RC Goiânia demo animation" style="max-width:100%; height:auto;" />
+</div>
 
 ---
 

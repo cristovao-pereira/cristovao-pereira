@@ -89,9 +89,7 @@ Principais pontos:
 
 Detalhes e instalação estão no repositório — clone, configure as variáveis de ambiente e rode `npm run dev:local` para ambiente de desenvolvimento.
 
-<div align="center">
-  <img src="./assets/loja-gif.gif" alt="Loja RC Goiânia demo animation" style="max-width:100%; height:auto;" />
-</div>
+![Loja RC Goiânia demo animation](./assets/loja-gif.gif)
 
 ---
 

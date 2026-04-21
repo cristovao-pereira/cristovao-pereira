@@ -67,6 +67,22 @@ Atuo na análise, desenvolvimento e evolução de soluções tecnológicas, com 
 
 ## 🚀 Projetos em destaque
 
+### 🏪 Loja RC Goiânia (destaque)
+Projeto: [lojaRCGoiania](https://github.com/cristovao-pereira/lojaRCGoiania)
+
+Sistema de gestão e e-commerce voltado para operação de loja, com foco em automação de vendas, controle de estoque e integração com serviços de infraestrutura moderna. Desenvolvido para ser escalável, seguro e de fácil implantação.
+
+Principais pontos:
+- Descrição: Aplicação full-stack com frontend em React e backend via Cloudflare Pages Functions.
+- Banco de dados: Supabase (PostgreSQL) com migrações versionadas.
+- Autenticação: Supabase Auth / Better Auth (híbrido).
+- Deploy: Cloudflare Pages (CI/CD automático na branch `main`).
+- Requisitos: Node.js 20+ para desenvolvimento local.
+
+Detalhes e instalação estão no repositório — clone, configure as variáveis de ambiente e rode `npm run dev:local` para ambiente de desenvolvimento.
+
+---
+
 ### 🏢 ERP de Gestão Integrada
 Sistema para **Vendas, Financeiro e Estoque**, desenvolvido com foco em eficiência operacional e organização dos processos.
 

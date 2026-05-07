@@ -76,7 +76,7 @@ Featured project: [ERP Comercial](https://github.com/cristovao-pereira/erpcomerc
 ## 🚀 Projetos em destaque
 
 ### 🏪 ERP Comercial (destaque)
-Projeto: [lojaRCGoiania](https://github.com/cristovao-pereira/erpcomercial)
+Projeto: [ERP Comercial](https://github.com/cristovao-pereira/erpcomercial)
 
 Sistema de gestão e e-commerce voltado para operação de loja, com foco em automação de vendas, controle de estoque e integração com serviços de infraestrutura moderna. Desenvolvido para ser escalável, seguro e de fácil implantação.
 

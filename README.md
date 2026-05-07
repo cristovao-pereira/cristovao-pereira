@@ -28,7 +28,7 @@ Atuo na análise, desenvolvimento e evolução de soluções tecnológicas, com 
 
 Cristovão Pereira de Brito — Systems Analyst, DevOps and Full Stack Developer. I design, build and maintain scalable web applications and infrastructure, with emphasis on automation, integration and software engineering best practices.
 
-Featured project: [Loja RC Goiânia](https://github.com/cristovao-pereira/lojaRCGoiania) — a retail management and e-commerce platform (React + Vite + TailwindCSS; Cloudflare Pages Functions; Supabase/Postgres). Recommended Node.js 20+ for local development.
+Featured project: [ERP Comercial](https://github.com/cristovao-pereira/erpcomercial) — a retail management and e-commerce platform (React + Vite + TailwindCSS; Cloudflare Pages Functions; Supabase/Postgres). Recommended Node.js 20+ for local development.
 
 ---
 

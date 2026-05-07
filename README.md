@@ -75,8 +75,8 @@ Featured project: [Loja RC Goiânia](https://github.com/cristovao-pereira/lojaRC
 
 ## 🚀 Projetos em destaque
 
-### 🏪 Loja RC Goiânia (destaque)
-Projeto: [lojaRCGoiania](https://github.com/cristovao-pereira/lojaRCGoiania)
+### 🏪 ERP Comercial (destaque)
+Projeto: [lojaRCGoiania](https://github.com/cristovao-pereira/erpcomercial)
 
 Sistema de gestão e e-commerce voltado para operação de loja, com foco em automação de vendas, controle de estoque e integração com serviços de infraestrutura moderna. Desenvolvido para ser escalável, seguro e de fácil implantação.
 
